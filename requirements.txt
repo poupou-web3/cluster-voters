@@ -4,3 +4,6 @@ pandas
 numpy
 networkx
 scipy
+datasets
+pyarrow>=12.0.1
+fastparquet==2023.4.0
