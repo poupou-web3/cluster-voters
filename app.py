@@ -22,7 +22,7 @@ st.write('')
 
 st.text('Load data from')
 local = st.checkbox('Local files')
-hugg = st.checkbox('Hugging face')
+hugg = st.checkbox('Hugging face', value=True)
 
 
 def display():
