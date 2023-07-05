@@ -28,4 +28,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Improvements ideas
+- Display projects and votes to these projects
+- Improve labels
+- Improve the graph
+- change color of incoming outgoing transactions
+- Try other layouts
 
