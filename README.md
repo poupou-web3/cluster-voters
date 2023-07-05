@@ -6,7 +6,15 @@ This app allows to visualize clusters of voters on the basis of their donations 
 https://share.streamlit.io/poupou-web3/cluster-voters/main/app.py
 
 ## How to use
-select the address of the voter you want to display the cluster and examine the 3D graph.
+- Select the address of the voter 
+- Look at the connections of the cluster
+
+Colors:
+- Red: the voters
+- Green: the Round contract
+- Blue: the addresses connected to the voters
+
+![img](img/demo.png)
 
 ## How to run the app
 
