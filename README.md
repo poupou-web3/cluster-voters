@@ -2,8 +2,8 @@
 
 This app allows to visualize clusters of voters on the basis of their donations and transactions.
 
-## the app is deployed on streamlit
-https://share.streamlit.io/poupou-web3/cluster-voters/main/app.py
+## The app is deployed on streamlit
+https://citizen-round-clusters.streamlit.app/
 
 ## How to use
 - Select the address of the voter 
